@@ -23,7 +23,7 @@ java FibMultiThread [numElements]
 Replace `[numElements]` with the number of elements you want to generate in the Fibonacci sequence.
 
 ## 執行結果
-！[](./Fibonacci-snapshot.png)
+！[result](./Fibonacci-snapshot.png)
 
 ## 程式碼說明
 

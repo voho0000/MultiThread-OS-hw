@@ -23,7 +23,7 @@ This will create an executable file called `monte-carlo-mutex`. To run the progr
 By default, the program generates 1,000,000 random points and uses 4 threads. You can modify these values in the `main()` function.
 
 ## Result
-！[](./monte-carlo-mutex.png)
+！[result](./monte-carlo-mutex.png)
 
 
 ## Code Explanation
