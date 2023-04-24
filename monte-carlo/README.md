@@ -23,7 +23,7 @@ This will create an executable file called `monte-carlo`. To run the program, us
 By default, the program generates 1,000,000 random points and uses 4 threads. You can modify these values in the `main()` function.
 
 ## 執行結果
-！[result screenshot](monte-carlo-snapshot.png)
+![result screenshot](monte-carlo-snapshot.png)
 
 ## 程式碼說明
 
