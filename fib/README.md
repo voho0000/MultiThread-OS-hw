@@ -2,11 +2,11 @@
 
 This is a Java program that generates the Fibonacci sequence using multiple threads.
 
-## 環境建置
+## Environment Setup
 
 To run this program, you will need to have Java Development Kit (JDK) installed on your computer. You can download the latest version of JDK from the official website: https://www.oracle.com/java/technologies/downloads/.
 
-## 如何執行程式
+## How to Run the Program
 
 To execute the program, you need to compile the source code first. Open a terminal and navigate to the directory where the source file is located. Then, use the following command to compile the code:
 
@@ -22,10 +22,10 @@ java FibMultiThread [numElements]
 
 Replace `[numElements]` with the number of elements you want to generate in the Fibonacci sequence.
 
-## 執行結果
+##  Result
 ![result screenshot](Fibonacci-snapshot.png)
 
-## 程式碼說明
+## Code Explanation
 
 The program consists of two classes: `FibGeneratorThread` and `FibMultiThread`. 
 

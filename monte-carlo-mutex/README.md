@@ -1,4 +1,4 @@
-# README
+# Monte Carlo method with multithreading and mutex
 
 This is a C++ program that estimates the value of Pi using the Monte Carlo method with multithreading.
 
